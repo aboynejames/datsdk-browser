@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "dat-sdk": "1.0.2"
+  },
+  "scripts": {
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
+  },
+  "name": "datsdk",
+  "version": "1.0.0",
+  "private": true,
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
